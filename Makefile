@@ -1,8 +1,8 @@
 VERSION = 3
 PATCHLEVEL = 6
 SUBLEVEL = 11
-EXTRAVERSION =
-NAME = Terrified Chipmunk
+EXTRAVERSION = adafruit
+NAME = Adafruit Learning Distro
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
